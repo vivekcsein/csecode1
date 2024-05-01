@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(12, 16, 32);
+    color: rgba(97, 214, 183, 0.402);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
